@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Tejas Pawar**
 
-🎓 Aspiring **Linux System Administrator | Cloud Enthusiast | Networking Learner**
+🎓 Aspiring **Linux System Administrator | Cloud Enthusiast | Networking Learner |Java Developer | Python Developer**
 
 💼 Passionate about Linux infrastructure, system administration, networking, cloud technologies, and automation.
 
