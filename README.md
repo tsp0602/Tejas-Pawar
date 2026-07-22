@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Tejas Pawar**
 
-🎓 Aspiring **Linux System Administrator | Cloud Enthusiast | Networking Learner |Java Developer | Python Developer**
+🎓 Aspiring Cloud Support Engineer | SRE | NOC Engineer | Linux & Networking Enthusiast
 
 💼 Passionate about Linux infrastructure, system administration, networking, cloud technologies, and automation.
 
@@ -37,19 +37,35 @@
 * Kubernetes
 * Python Automation
 * Ansible
+* JavaScript & TypeScript
+* REST APIs
+* FastAPI
+* SQL Revision & Database Design
+* Prometheus & Grafana
 
 ---
 
 💬 **Ask me about**
 
 * Linux Commands
-* Ubuntu
 * Bash Scripting
 * Git & GitHub
-* SSH
-* Cron Jobs
-* Systemd
 * Networking Fundamentals
+* Python Basics
+* JavaScript Fundamentals
+* REST APIs & FastAPI
+
+
+---
+
+🎯 **Career Interests**
+
+* Cloud Support Engineer
+* Site Reliability Engineer (SRE)
+* Network Operations Center (NOC) Engineer
+* Technical Support Engineer (L2/L3)
+* Entry-Level DevOps Engineer
+
 
 ---
 
